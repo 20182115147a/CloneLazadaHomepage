@@ -184,7 +184,7 @@ function sliderFunc(n) {
     slider.style.backgroundColor = bgColors[sliderIndex-1];
 }
 //count-down 
-var countDownDate = new Date("October 27, 2021 13:58:25").getTime();
+var countDownDate = new Date("October 22, 2022 13:58:25").getTime();
 const timeBox = document.getElementById('deal-time')
 var x = setInterval(function() {
 
